@@ -3,7 +3,7 @@
   "name": "accounting-withholding-tax-api",
   "display_name": "Accounting Withholding Tax API",
   "description": "Versioned API for withholding tax rules and remittance.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\WithholdingTaxApi\\WithholdingTaxApiServiceProvider",
   "requires": {
